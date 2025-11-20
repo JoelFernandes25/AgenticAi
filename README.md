@@ -17,4 +17,4 @@ Not open for contributions right now, but feel free to fork or learn from the pr
 Note on Import Errors
 
 Some import paths may look unusual — this is because LangChain often shifts several modules between packages.
-I’ve updated the code accordingly, but older systems may show warnings depending on your version.
+I’ve updated the code accordingly, but newer versions may show warnings
